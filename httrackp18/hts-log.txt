@@ -1,0 +1,15 @@
+HTTrack3.48-21 launched on Tue, 28 Aug 2018 18:21:33 at http://artefact.webflow.io/
+(httrack http://artefact.webflow.io/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:21:36	Error: 	"backend read error" (503) at link artefact.webflow.io/nav-elements (from artefact.webflow.io/)
+18:21:36	Error: 	"backend read error" (503) at link artefact.webflow.io/link-elements (from artefact.webflow.io/)
+18:21:36	Error: 	"backend read error" (503) at link artefact.webflow.io/pane-elements (from artefact.webflow.io/)
+18:21:36	Error: 	"backend read error" (503) at link artefact.webflow.io/form-elements (from artefact.webflow.io/)
+
+HTTrack Website Copier/3.48-21 mirror complete in 3 seconds : 6 links scanned, 1 files written (74646 bytes overall) [13787 bytes received at 4595 bytes/sec], 74667 bytes transferred using HTTP compression in 2 files, ratio 12%, 3.0 requests per connection
+(4 errors, 0 warnings, 0 messages)

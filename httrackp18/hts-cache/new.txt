@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:21:34	21/21	---M-Z	-1	error ('Open%20error%20when%20decompressing%20(can%20not%20create%20temporary%20file%20/tmp0.z)')	text/plain	date:Tue,%2028%20Aug%202018%2012:51:34%20GMT	http://artefact.webflow.io/robots.txt		(from )
+18:21:34	74646/74646	---M-Z	200	added ('OK')	text/html	date:Tue,%2028%20Aug%202018%2012:51:34%20GMT	http://artefact.webflow.io/	artefact.webflow.io/index.html	(from )
+18:21:35	448/448	---M--	503	error ('backend%20read%20error')	text/html	date:Tue,%2028%20Aug%202018%2012:51:35%20GMT	http://artefact.webflow.io/nav-elements	artefact.webflow.io/nav-elements	(from http://artefact.webflow.io/)
+18:21:35	448/448	---M--	503	error ('backend%20read%20error')	text/html	date:Tue,%2028%20Aug%202018%2012:51:35%20GMT	http://artefact.webflow.io/link-elements	artefact.webflow.io/link-elements	(from http://artefact.webflow.io/)
+18:21:36	448/448	---M--	503	error ('backend%20read%20error')	text/html	date:Tue,%2028%20Aug%202018%2012:51:36%20GMT	http://artefact.webflow.io/pane-elements	artefact.webflow.io/pane-elements	(from http://artefact.webflow.io/)
+18:21:36	448/448	---M--	503	error ('backend%20read%20error')	text/html	date:Tue,%2028%20Aug%202018%2012:51:36%20GMT	http://artefact.webflow.io/form-elements	artefact.webflow.io/form-elements	(from http://artefact.webflow.io/)
